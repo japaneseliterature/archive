@@ -1,16 +1,16 @@
-投稿作品ライセンス
+文学Git library ライセンス
 
-本リポジトリに含まれる投稿作品の著作権について：
+本リポジトリに含まれる各作品（PDF・テキスト等）の著作権は、それぞれの作者に帰属します。
+運営者（次世代文学・次世代短歌）は、作品内容そのものについて著作権を主張しません。
 
-1. 各作品の著作権は、それぞれの作者に帰属します。
-2. 作品の利用については、各作者の許可が必要です。
-3. 本データベースの編集・整理作業について、運営者である次世代文学・次世代短歌は著作権を主張しません。
-4. CSVファイルの構造やデータベース設計については、パブリックドメインとして扱います。
-5. 作品ごとのライセンス表記がある場合はそちらを優先してください
+1. 本リポジトリに収録されている作品の転載、複製、再配布、翻訳、改変、商用利用等の二次利用を行う場合は、必ず各作品の作者の許可を得てください。
+2. 引用を行う場合は、日本の著作権法で認められる範囲内で、適切な出典表記を行ってください。
+3. 各作品に個別のライセンス表記がある場合は、当該表記が本ライセンスに優先します。
+4. 本リポジトリ内のディレクトリ構成、ファイル命名規則、CSV・Markdown・JSON等のデータ構造および整理方法については、自由に利用して構いません。
+5. 運営者は、作品を除くデータベース構造および整理方法について著作権を主張しません。
 
-Individual Copyright Notice:
-Each creative work in this collection is copyrighted by its respective author.
-Any use of these works requires permission from the individual authors.
-The compilation and database structure are released without copyright claims by the organizer, Jisedai Bungaku・Jisedai Tanka (Next Generation Literature・Next Generation Tanka).
+6. 本リポジトリでの公開は、作品の自由利用や再配布を許諾するものではありません。
+7. PDFからのテキスト抽出、全文転載、データセット化等の行為も、二次利用に含まれます。
 
-連絡先: [tankazine@gmail.com]
+連絡先:
+tankazine@gmail.com

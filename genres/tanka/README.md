@@ -17,7 +17,7 @@
 ## インデックス
 
 - [既存短歌アーカイブ](indices/archive.md)
-- [文学コモンズ内の短歌](indices/literary-commons.md)
+- [文学コモンズ内の短歌](今後追加予定)
 
 ---
 
